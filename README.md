@@ -1,0 +1,3 @@
+- Jasmine Buckley-Williams
+- https://github.com/jasbuckleywilliams/BDA594-Jas
+- Big Data is the extremely large and diverse data set with information that increasingly grows
